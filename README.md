@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Hritik
+[![](https://visitcount.itsvg.in/api?id=BitByte29&icon=2&color=3)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 An Electronics engineering graduate, immersing myself in the world of Information Technology. 💡 Tech aficionado, always hungry for knowledge and eager to dive into cutting-edge tech. Ready to embark on exciting tech adventures!
 
 
-[![](https://visitcount.itsvg.in/api?id=BitByte29&icon=2&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hritik_pal_932) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hritik-pal-472550190/) 
